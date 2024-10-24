@@ -46,7 +46,8 @@ Example Visualizations:
   - Heat maps to highlight profit vs loss categories.
 ![Part 1 1 P L](https://github.com/user-attachments/assets/5cceb2f1-ff72-48f8-813b-f67271581082)
 
-  - Bar charts showing product performance by region.
+  - Bar charts showing product performance by shipping mode.
+![Part 1 2 P L](https://github.com/user-attachments/assets/b19e1567-f708-47a4-9810-019d9e8dbd38)
 
 
 # Part 2: Advertising Strategy
@@ -66,9 +67,16 @@ Questions Answered:
 Example Visualizations:
 
   - Line charts showing monthly profit trends in top-performing states.
+![Part 2 1_](https://github.com/user-attachments/assets/5d4a2ac8-f37b-427d-8619-9eb5f03cb84c)
 
   - ROAS visualizations to help justify advertising costs.
+![Part 2 1 (1)](https://github.com/user-attachments/assets/4d2e31ed-966a-4ed7-b315-859890df362a)
 
+  - Bar Chart showing top sub categories based on Average Return Rate. 
+![Part2 2](https://github.com/user-attachments/assets/7ad8ea56-c47c-4dd3-a978-2a780b12be05)
+
+  - Bar Chart showing return rate through customers based on average return rate.
+![Part 2 2 1](https://github.com/user-attachments/assets/cc8d3864-e0fe-4964-af3e-a275c9555b58)
 
 # Part 3: Returned Items
 
@@ -90,12 +98,10 @@ Questions Answered:
 
 Example Visualizations:
 
-  - Bar charts for product return rates.
+  - Visualization of the average profit against the average return rate on states. 
+![Part3 3](https://github.com/user-attachments/assets/bf521d1e-d1f5-4279-878c-f88699259af7)
 
-  - Scatter plots showing profit vs return rate by state or product type.
-
-
-Tableau Public Link:
+Tableau Public Link: (https://public.tableau.com/views/ProjectSprint4_/Part1_2PL?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
