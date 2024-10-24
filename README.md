@@ -47,6 +47,7 @@ Example Visualizations:
 ![Part 1 1 P L](https://github.com/user-attachments/assets/5cceb2f1-ff72-48f8-813b-f67271581082)
 
   - Bar charts showing product performance by shipping mode.
+
 ![Part 1 2 P L](https://github.com/user-attachments/assets/b19e1567-f708-47a4-9810-019d9e8dbd38)
 
 
