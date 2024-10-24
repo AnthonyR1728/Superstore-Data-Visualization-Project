@@ -73,10 +73,11 @@ Example Visualizations:
 ![Part 2 1 (1)](https://github.com/user-attachments/assets/4d2e31ed-966a-4ed7-b315-859890df362a)
 
   - Bar Chart showing top sub categories based on Average Return Rate. 
-![Part2 2](https://github.com/user-attachments/assets/7ad8ea56-c47c-4dd3-a978-2a780b12be05)
+![Part 2 2](https://github.com/user-attachments/assets/f9303dcd-c87b-4239-bffd-69a51758c722)
 
   - Bar Chart showing return rate through customers based on average return rate.
-![Part 2 2 1](https://github.com/user-attachments/assets/cc8d3864-e0fe-4964-af3e-a275c9555b58)
+![Part 2 2 1](https://github.com/user-attachments/assets/78cec7fb-6147-4960-a6c4-809356427a02)
+
 
 # Part 3: Returned Items
 
