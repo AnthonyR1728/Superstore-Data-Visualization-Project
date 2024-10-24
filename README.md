@@ -44,6 +44,7 @@ Questions Answered:
 
 Example Visualizations:
   - Heat maps to highlight profit vs loss categories.
+![Part 1 1 P L](https://github.com/user-attachments/assets/5cceb2f1-ff72-48f8-813b-f67271581082)
 
   - Bar charts showing product performance by region.
 
