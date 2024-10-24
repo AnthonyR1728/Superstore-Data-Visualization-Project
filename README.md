@@ -32,67 +32,79 @@ Questions Answered:
   
   1. Biggest Profit Centers and Loss-Makers:
 
-    - Visualize the two largest profit centers and two largest loss-makers by analyzing combinations of dimensions (e.g., subcategory + region or shipping mode + product ID).
-Products to Stop Selling:
-Identify products that consistently lead to losses, and visualize which products the store should consider discontinuing.
-Focus & Stop Selling Subcategories:
-Determine which 3 product subcategories the store should prioritize and which 3 it should stop selling, based on their profit performance.
+     - Visualize the two largest profit centers and two largest loss-makers by analyzing combinations of dimensions (e.g., subcategory + region or shipping mode + product ID).
+
+  2. Products to Stop Selling:
+
+     - Identify products that consistently lead to losses, and visualize which products the store should consider discontinuing.
+
+  3. Focus & Stop Selling Subcategories:
+
+     - Determine which 3 product subcategories the store should prioritize and which 3 it should stop selling, based on their profit performance.
+
 Example Visualizations:
-Heat maps to highlight profit vs loss categories.
-Bar charts showing product performance by region.
-Part 2: Advertising Strategy
+  - Heat maps to highlight profit vs loss categories.
+
+  - Bar charts showing product performance by region.
+
+
+# Part 2: Advertising Strategy
+
 Here, the goal is to determine the best time and place to invest in advertising. Advertising should be targeted at states and months where the average profit per unit sold is high enough to justify the ad spend.
 
 Questions Answered:
-Best States and Months for Advertising:
-Identify the 3 best combinations of states and months to advertise in, visualizing average profits for each month in these states.
-Justify Advertising Costs:
-Use the Return on Ad Spend (ROAS) ratio to argue how much the store should be willing to spend on advertising for the selected states and months. The rule of thumb for this project is that the store should be willing to spend 1/5 of its profits on advertising.
+
+  1. Best States and Months for Advertising:
+
+     - Identify the 3 best combinations of states and months to advertise in, visualizing average profits for each month in these states.
+
+  2. Justify Advertising Costs:
+
+     - Use the Return on Ad Spend (ROAS) ratio to argue how much the store should be willing to spend on advertising for the selected states and months. The rule of thumb for this project is that the store should be willing to spend 1/5 of its profits on advertising.
+
 Example Visualizations:
-Line charts showing monthly profit trends in top-performing states.
-ROAS visualizations to help justify advertising costs.
-Part 3: Returned Items
+
+  - Line charts showing monthly profit trends in top-performing states.
+
+  - ROAS visualizations to help justify advertising costs.
+
+
+# Part 3: Returned Items
+
 This section focuses on analyzing product return rates and determining whether certain products or customer groups have abnormally high return rates, impacting profitability.
 
 Questions Answered:
-Products with Highest Return Rate:
-Visualize which products have the highest return rates by creating a calculated field to categorize returned items.
-Customers with Highest Return Rate:
-Identify which customers have the highest return rates and examine if these customers are consistently returning high-value items.
-Impact of Returns on Profitability:
-Create a visualization that plots average profit against the average return rate for a specific dimension (e.g., state, shipping mode, product type). Use this visualization to argue whether the superstore should continue or stop doing business in that dimension.
+
+  1. Products with Highest Return Rate:
+
+     - Visualize which products have the highest return rates by creating a calculated field to categorize returned items.
+
+  2. Customers with Highest Return Rate:
+
+     - Identify which customers have the highest return rates and examine if these customers are consistently returning high-value items.
+
+  3. Impact of Returns on Profitability:
+
+     - Create a visualization that plots average profit against the average return rate for a specific dimension (e.g., state, shipping mode, product type). Use this visualization to argue whether the superstore should continue or stop doing business in that dimension.
+
 Example Visualizations:
-Bar charts for product return rates.
-Scatter plots showing profit vs return rate by state or product type.
-Part 4: Submission Instructions
-To submit your project, ensure the following:
+
+  - Bar charts for product return rates.
+
+  - Scatter plots showing profit vs return rate by state or product type.
+
 
 Tableau Public Link:
 
-Publish your Tableau dashboard on Tableau Public.
-Include a link to your published dashboard here.
-Superstore Tableau Dashboard
 
-Project Files:
 
-Submit a ZIP archive containing all your project files.
-Ensure all files are under 9 MB in size.
-How to Use the Repository
-Clone the Repository: Clone this repository to your local machine.
 
-bash
-Copy code
-git clone https://github.com/yourusername/superstore-tableau-analysis.git
-Tableau Workbook: Open the Tableau workbook file in Tableau Desktop to explore the visualizations or access the published version on Tableau Public.
 
-Analysis: Use the visualizations to explore different aspects of the Superstore's operations and answer the key questions posed in the project.
 
-Key Skills Demonstrated
-Data Preparation: Combining multiple data sources using LEFT JOIN and creating calculated fields in Tableau.
-Data Visualization: Creating insightful visualizations like bar charts, heat maps, and scatter plots to support decision-making.
-Profit Analysis: Identifying major profit and loss centers using visual data exploration.
-Advertising Strategy: Using ROI calculations to recommend targeted advertising strategies.
-Return Rate Analysis: Investigating return rates and their impact on profitability.
-Next Steps
-Further Analysis: Explore additional dimensions and metrics (e.g., shipping delays, customer segments) for deeper insights.
-Optimization Strategies: Based on your findings, recommend further strategies to improve profitability and reduce return rates.
+# Key Skills Demonstrated
+
+  1. Data Preparation: Combining multiple data sources using LEFT JOIN and creating calculated fields in Tableau.
+  2. Data Visualization: Creating insightful visualizations like bar charts, heat maps, and scatter plots to support decision-making.
+  3. Profit Analysis: Identifying major profit and loss centers using visual data exploration.
+  4. Advertising Strategy: Using ROI calculations to recommend targeted advertising strategies.
+  5. Return Rate Analysis: Investigating return rates and their impact on profitability.
