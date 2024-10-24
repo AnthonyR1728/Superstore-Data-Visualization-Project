@@ -29,8 +29,10 @@ The dataset contains multiple sheets, including:
    In this section, the goal is to identify the key areas where the superstore is making the most profits and where it is incurring the most losses. This involves analyzing combinations of dimensions like product subcategories, shipping modes, and regions.
 
 Questions Answered:
-Biggest Profit Centers and Loss-Makers:
-Visualize the two largest profit centers and two largest loss-makers by analyzing combinations of dimensions (e.g., subcategory + region or shipping mode + product ID).
+  
+  1. Biggest Profit Centers and Loss-Makers:
+
+    - Visualize the two largest profit centers and two largest loss-makers by analyzing combinations of dimensions (e.g., subcategory + region or shipping mode + product ID).
 Products to Stop Selling:
 Identify products that consistently lead to losses, and visualize which products the store should consider discontinuing.
 Focus & Stop Selling Subcategories:
