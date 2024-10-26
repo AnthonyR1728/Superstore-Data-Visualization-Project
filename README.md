@@ -2,7 +2,7 @@
 
 
 # Project Overview
-  Welcome to the Superstore Data Visualization project! As a consultant, your task is to analyze Superstore's operations to identify areas of profit and loss, recommend advertising strategies, and assess return rates to increase profitability and avoid bankruptcy. The analysis will be visualized using Tableau, allowing for clear and actionable insights based on the available data.
+  Welcome to the Superstore Data Visualization project! The task is to analyze Superstore's operations to identify areas of profit and loss, recommend advertising strategies, and assess return rates to increase profitability and avoid bankruptcy. The analysis will be visualized using Tableau, allowing for clear and actionable insights based on the available data.
 
   This project will be divided into three parts:
 
